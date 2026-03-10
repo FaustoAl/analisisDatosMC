@@ -1,3 +1,9 @@
+# Trabajo N°3
+# Grupo 4
+- FAUSTO RENE ALMEIDA FONSECA
+- JESSICA VANESSA TIPANTUÑA QUILUMBAQUIN
+- ANGEL GUSTAVO TOAPANTA LLANO
+
 # 🌍 Análisis de la Felicidad Mundial 2023
 Este proyecto aplica técnicas de **Análisis Exploratorio de Datos (EDA)** y **Machine Learning** sobre el dataset de Felicidad Mundial para identificar qué factores influyen más en el bienestar de las naciones.
 
