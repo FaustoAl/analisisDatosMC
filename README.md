@@ -8,6 +8,15 @@ Este proyecto aplica técnicas de **Análisis Exploratorio de Datos (EDA)** y **
    pip install -r requirements.txt
 3. Abre el notebook 'AnalisisM.ipynb en Jupyter o VS Code.
 
+
+## 📊 Manejo del Dataset
+Para asegurar la reproducibilidad del proyecto, el notebook está configurado para cargar los datos de forma remota. Sin embargo, se ha incluido una copia local por seguridad.
+
+* **Opción A (Remota):** El script intenta cargar el CSV directamente desde el repositorio para facilitar la ejecución inmediata.
+* **Opción B (Local):** Si la URL no está disponible o prefieres trabajar offline, puedes cambiar la ruta de carga en la celda de "Carga de Datos" por:
+    df = pd.read_csv('data/whr2023.csv')
+
+> **Nota:** El archivo local se encuentra en la carpeta `/data` de este repositorio.
 ## 🛠️ Tecnologías Utilizadas
 * **Análisis de Datos:** Pandas, Numpy.
 * **Visualización:** Matplotlib, Seaborn, Plotly (Mapas interactivos).
